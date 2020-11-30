@@ -5,6 +5,10 @@
 * Regressao Linear Univariada Analítica
 * Regressao Linear Univariada Gradiente Descendente
 * Regressao Linear Univariada Gradiente Descendente Estocastico
+* Regressao Linear Multivariada Analítica
+* Regressao Linear Multivariada Gradiente Descendente
+* Regressao Linear Multivariada Gradiente Descendente Estocastico
+
 
 ##Atividade2
 * Matriz de Confusao (Opencv)
